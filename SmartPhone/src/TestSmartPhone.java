@@ -1,3 +1,7 @@
+/**
+ * BLABLA
+ */
+
 import javax.swing.SwingUtilities;
 
 import containers.Frame;
